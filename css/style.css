@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.whole-form{
+    padding-left: 50px;
+    padding-right: 50px;
+    
+}
+.form{
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, #FF8A08 0px 1px 1px 0px;
+}
+.form img{
+    display: block;
+    margin: auto;
+}
+.form input[type="text"], input[type="email"], input[type="password"], input[type="file"]{
+    border-radius: 50px;
+    padding-top: 2px;
+    
+}
+.form select{
+    border-radius: 50px;
+}
+
+::placeholder{
+    font-size: 13px;
+}
+.form label{
+    font-size: 14px;
+    margin-left: 5px;
+}
+
+.forget-password{
+    padding-top: 10px;
+}
+
+.sign-up{
+    padding-top: 10px;
+}
+
+.sidebar-btn:hover {
+    background: linear-gradient(45deg, #F97300, #d9a941);
+    transform: translateY(-3px);
+}
