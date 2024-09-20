@@ -10,6 +10,7 @@ BookMaster is a robust web-based Library Management System designed to efficient
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
+- **Deployment:** InfinityFree
 
 ## Features
 
